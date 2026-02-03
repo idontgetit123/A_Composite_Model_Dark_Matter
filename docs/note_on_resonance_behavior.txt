@@ -6,4 +6,4 @@ This does not modify the law—it simply produces a predictable resonance patter
 
 Because the larger‑circumference contributor injects more energy, the neutral carrier occasionally completes an extra loop around that side before the full cycle resets. Over time, the system settles into a stable loop‑count ratio that reflects the circumference ratio of the contributors. For example, if the contributors differ in a 3:4 ratio, the neutral carrier will trace a repeating pattern with three loops around one side and four around the other.
 
-This resonance behavior is not an exception or correction to Howland’s Law. It is the expected dynamical outcome of applying the law to unequal contributors, and anyone familiar with the law would anticipate these extra loops as a natural consequence of the geometry.
+This resonance behavior is not an exception or correction to Howland’s Law. It is the expected dynamical outcome of applying the law to unequal contributors, and anyone familiar with the law would anticipate these extra loops as a natural consequence of the geometry..
